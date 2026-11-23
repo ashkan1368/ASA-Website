@@ -1,0 +1,6 @@
+{
+  "name": "آسا | Asa — همراه مطمئن خانواده شما در تهران (Asa Hamrah, Asa Khoraak & Asa Pezeshk)",
+  "description": "حتی از راه دور، برای خانواده‌تان در تهران همراه باشید. پلتفرم جامع خدمات «آسا همراه»، «آسا خوراک» (سوپرمارکت خانواده و بسته‌های غذایی آماده) و «آسا پزشک» با گزارش واقعی خانواده و تفکیک شفاف فاکتور.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

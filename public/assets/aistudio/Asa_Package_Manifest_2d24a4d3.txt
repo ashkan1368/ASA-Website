@@ -1,0 +1,26 @@
+Asa Complete Package
+Updated: 14 November 2026
+
+Included user-facing materials:
+- Asa_Executive_Summary.md
+- Asa_Full_Business_Plan.md
+- Asa_Full_Marketing_Plan.md
+- Asa_Launch_Playbook.md
+- Asa_Website_and_Brand_Brief.md
+- Asa_Research_and_Evidence_Appendix.md
+- Asa_Launch_Decision_Memo.md
+- Asa_Service_Naming_Update.md
+- Asa_Financial_Model.xlsx
+- Asa_Financial_Dashboard.svg
+- Asa_Scenario_Projections.csv
+- Asa_Financial_Visualization_Readout.md
+- README.md
+
+Included reproducibility material:
+- asa_visuals.py — standard-library script used to generate the scenario CSV and SVG dashboard.
+
+Included source material reviewed:
+- 1-pasted_content.txt — founder project brief supplied for the research.
+
+Important:
+The package contains research and planning materials, not legal, tax, sanctions, medical, insurance, or investment advice. Payment feasibility remains a launch gate. Financial figures are illustrative planning assumptions and must be replaced with provider-approved payment costs, local quotes, insurance/tax inputs, and paid-pilot results.

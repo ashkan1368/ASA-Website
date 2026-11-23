@@ -1,0 +1,143 @@
+{
+  "brand": {
+    "name": "ASA",
+    "motto": "COMFORT · EASE · PEACE OF MIND",
+    "fullMotto": "ASA · Comfort, Ease, Peace of Mind",
+    "tagline": "Asa Hamrah · Asa Khoraak · Asa Pezeshk — Store-Receipt Transparency & Family Updates",
+    "coverageNote": "Currently Operating in Tehran (Districts 1–6) · Expanding Soon"
+  },
+  "intro": {
+    "headline": "Comfort, Ease & Peace of Mind for Your Family",
+    "enterButton": "Click to Enter Asa Website",
+    "clickHint": "Click the button above or anywhere on screen to enter",
+    "transitioning": "Transitioning...",
+    "downloadStandalone": "Download Standalone HTML"
+  },
+  "header": {
+    "servicesAndMarket": "Services & Market",
+    "pillarServices": "1. Asa 3-Pillar Services",
+    "familySupermarket": "2. Family Supermarket",
+    "zeroMarkupBadge": "0% Markup",
+    "teamVideos": "Meet Our Stewards",
+    "coverageAndFaqs": "Coverage & FAQs",
+    "adminPanel": "Admin Panel",
+    "welcomeTour": "Start Welcome Tour",
+    "reorderFromLast": "Reorder from Last",
+    "reorderRestored": "Restored!",
+    "liveTrackingPrefix": "Order:",
+    "orderDrawerButton": "Asa Order",
+    "myAccountPrefix": "Profile",
+    "signInOrJoin": "Sign In / Join",
+    "livePricesConnected": "Live Prices ({count} Stores)",
+    "logoMotion": "Logo Motion",
+    "standaloneHtml": "Standalone HTML",
+    "switchLanguageLabel": "فارسی"
+  },
+  "breadcrumbs": {
+    "services": "Services",
+    "supermarket": "Supermarket & Meals",
+    "team": "Meet Our Stewards",
+    "philosophy": "Coverage & FAQs"
+  },
+  "hero": {
+    "operationalBadge": "Dedicated Family Stewards · Official Store Receipt + Factual Family Update",
+    "primaryCta": "Explore 3-Pillar Services",
+    "secondaryCta": "Supermarket & Meals",
+    "parentProfileCta": "Parent Care Profile",
+    "metricPillarsTitle": "3 Core Pillars",
+    "metricPillarsSub": "Hamrah · Khoraak · Pezeshk",
+    "metricReceiptTitle": "0% Item Markup",
+    "metricReceiptSub": "Exact store receipt price",
+    "metricGatewaysTitle": "3 Payment Gateways",
+    "metricGatewaysSub": "Intl Card · IRR · Crypto",
+    "metricReportTitle": "Family Update",
+    "metricReportSub": "Sent after every visit"
+  },
+  "admin": {
+    "badge": "ASA Unified Executive Console · Operations, Analytics & Content Control",
+    "title": "ASA Comprehensive Website & Operations Admin Dashboard",
+    "resetDefaults": "Reset All to Defaults",
+    "closeAndApply": "Close & Apply Live",
+    "tabs": {
+      "analytics": "1. Sales & Demand Analytics",
+      "ordersAndChat": "2. Backdoor Orders & Chat ({count})",
+      "customerProfiles": "3. Customer & Parent Profiles ({count})",
+      "liveSupermarketSync": "4. Live Supermarket API",
+      "services": "5. Edit Services ({count})",
+      "products": "6. Edit Supermarket ({count})",
+      "gateways": "7. Payment Gateways (3)",
+      "siteSettings": "8. Brand & Motto Settings",
+      "localization": "9. JSON i18n Dictionary"
+    },
+    "kpi": {
+      "activeServices": "Active Catalog Services",
+      "supermarketSkus": "Supermarket & Meal SKUs",
+      "activeGateways": "Enabled Payment Gateways",
+      "liveOrderStage": "Current Live Order Stage",
+      "stageCounter": "Stage {current} / 5"
+    },
+    "localizationEditor": {
+      "title": "Bilingual JSON Translation Dictionary Manager (i18n Framework)",
+      "subtitle": "All UI labels, error messages, and dashboard headings are powered by structured JSON translation dictionaries (fa.json / en.json) and can be edited live here.",
+      "searchPlaceholder": "Search translation key path or Persian / English text...",
+      "resetTranslations": "Reset Dictionary to Default JSON",
+      "exportJson": "Download Active Locale JSON",
+      "keyColumn": "JSON Key Path",
+      "faColumn": "Persian Value (fa.json)",
+      "enColumn": "English Value (en.json)",
+      "savedToast": "Translation dictionary updated and applied across the entire UI."
+    }
+  },
+  "auth": {
+    "portalBadge": "ASA Family Member Portal · Live Steward Map, Visit Reports & Profile",
+    "activeMemberTitle": "Family Portal: {name}",
+    "guestTitle": "Sign In or Create Your Family Care Account",
+    "signOut": "Sign Out",
+    "tabs": {
+      "familyDashboard": "Family Dashboard (Steward Map & Visit Reports)",
+      "pastOrders": "Past Orders ({count})",
+      "profile": "My Profile & Parent Care",
+      "login": "Sign In / Switch User",
+      "signup": "Create New Account"
+    },
+    "pastOrders": {
+      "title": "Chronological History of Your Past Orders",
+      "subtitle": "All historical orders for your logged-in account fetched live from Asa’s operations ledger.",
+      "newestFirst": "Newest First",
+      "oldestFirst": "Oldest First",
+      "itemDetails": "Item & Service Breakdown",
+      "passThroughGoods": "Pass-Through Goods (Store Receipt)",
+      "serviceFee": "Asa Service Fee",
+      "totalCost": "Total Order Cost",
+      "emptyState": "No historical orders found for this logged-in account yet."
+    }
+  },
+  "tracking": {
+    "receiptPreviewTitle": "Generated Official Store Receipt Preview (0% Item Markup Audit)",
+    "viewReceiptBtn": "Preview Official Store Receipt",
+    "hideReceiptBtn": "Hide Receipt Preview",
+    "downloadPngBtn": "Download Receipt Image (PNG)",
+    "downloadPdfBtn": "Download Official Receipt (PDF)"
+  },
+  "errors": {
+    "emptyBasket": "Your Asa order basket is empty. Please select at least one service or grocery item first.",
+    "consentRequired": "Please confirm Asa's non-clinical scope and official receipt transparency terms before dispatching.",
+    "missingRequiredFields": "Please complete all required fields (Name, Email or Phone, and Residence Address).",
+    "invalidEmailFormat": "The email address format entered is not valid.",
+    "microphoneUnsupported": "Your browser does not support native speech recognition; you may use the sample voice commands below.",
+    "microphoneFallback": "Type or click a sample voice command below to auto-fill your cart.",
+    "unservicedDistrictNotice": "\"{query}\" is in our upcoming Tehran expansion phase.",
+    "priceSyncFailed": "Unable to reach external store pricing API; last verified receipt price retained."
+  },
+  "waitlist": {
+    "badge": "Priority Neighborhood Expansion Waitlist · Tehran",
+    "title": "Get Notified When Asa Expands to Your Parents’ District",
+    "joinButton": "Join Expansion Waitlist →",
+    "successHeadline": "You’re on the Priority Expansion Waitlist!",
+    "priorityCodeLabel": "Priority Waitlist Code: {code}"
+  },
+  "footer": {
+    "rights": "© 2026 ASA (Comfort, Ease, Peace of Mind) · All Rights Reserved.",
+    "disclaimer": "ASA is a non-clinical family companionship, receipt-reconciled home shopping, and medical visit coordination service (currently operating in Tehran)."
+  }
+}
